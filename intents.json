@@ -1,0 +1,23 @@
+{"intents": [
+  {"tag": "library",
+    "patterns": ["Can I borrow this book"],
+    "responses": ["Yes, you can borrow this book"]
+  },
+  {"tag": "cutoffs",
+    "patterns": ["What's the cutoff for the cse branch in this college?", "What is the computer science cutoff"],
+    "responses": ["It's somewhat around 180 or so like that..."]
+  },
+  {"tag": "faculty",
+    "patterns": ["What kind of faculty does your college have ?", "How's the faculty in you're college?","How's the teaching in COEP ?"],
+    "responses": ["We have pretty good faculty here.", "The teaching is quite good in COEP", "Amazing absolutely..."]
+  },
+  {"tag": "coep",
+    "patterns": ["When was coep established", "What is the establishment date of coep", "When was coep founded ?"],
+    "responses": ["COEP was established in 1854..."]
+  },
+  {"tag": "avaneesh",
+    "patterns": ["What is your name ?"],
+    "responses": ["My name is Avaneesh.."]
+  }
+]
+}
